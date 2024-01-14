@@ -19,7 +19,7 @@ jobs:
       -
         name: Build and push
         run: |
-          docker build -t evgenija2000/kiii_193038 ./appointments_backend
-          docker push evgenija2000/kiii_193038
+          docker build -t evgenijanikolaevska/kiii_193038 ./appointments_backend
+          docker push evgenijanikolaevska/kiii_193038
 
           
