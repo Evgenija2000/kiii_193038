@@ -30,4 +30,4 @@ services:
       - PGADMIN_DEFAULT_EMAIL=postgres
       - PGADMIN_DEFAULT_PASSWORD=postgres
     ports:
-      - "82:80"
+      - "82:80" 
